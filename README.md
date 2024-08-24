@@ -1,1 +1,1 @@
-Progress page for my eaglercraft 1.14 updating. currently: 16%
+Progress page for my eaglercraft 1.14 updating. currently: 24%
